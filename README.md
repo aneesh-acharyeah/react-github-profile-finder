@@ -29,7 +29,7 @@ A clean and responsive web app built with **React** and **Bootstrap** that allow
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/aneesh-acharyeah/github-profile-finder.git
+git clone https://github.com/aneesh-acharyeah/react-github-profile-finder.git
 cd github-profile-finder
 ```
 
